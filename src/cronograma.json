@@ -1,0 +1,34 @@
+{
+    "2023-04-20": [
+      {
+        "hora": "10:00",
+        "descripcion": "Paseo en la playa",
+        "foto": "https://ejemplo.com/foto1.jpg",
+        "ubicacion": "Playa del Carmen"
+      },
+      {
+        "hora": "14:00",
+        "descripcion": "Comida en un restaurante local",
+        "foto": "https://ejemplo.com/foto2.jpg",
+        "ubicacion": "Restaurante El Cangrejo"
+      }
+     
+    ],
+    "2023-04-21": [
+      {
+        "hora": "9:00",
+        "descripcion": "Senderismo en las montañas",
+        "foto": "https://ejemplo.com/foto3.jpg",
+        "ubicacion": "Parque Nacional Sierra Nevada"
+      },
+      {
+        "hora": "13:00",
+        "descripcion": "Picnic en el bosque",
+        "foto": "https://ejemplo.com/foto4.jpg",
+        "ubicacion": "Área recreativa Los Pinos"
+      }
+      
+    ]
+    
+  }
+  

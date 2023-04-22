@@ -1,0 +1,464 @@
+{
+  "datos": [
+    {
+      "fecha": "2023-04-21",
+      "dia": "1",
+      "Ciudad": "Madrid",
+      "hotel": "Gran Ricon de la gran via!",
+      "ubicacionHotel": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26266.43073381775!2d-58.43117029999999!3d-34.62176125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3bd82cfc13%3A0x640553e4c08a2eb2!2sMcDonald&#39;s!5e0!3m2!1ses-419!2sar!4v1682027310494!5m2!1ses-419!2sar\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "actividades": [
+        {
+          "hora": "18:00",
+          "descripcion": "Hotel",
+          "foto": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q7aCTpRdjB7wp7cgJLYNRQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=231.32724&pitch=0&thumbfov=100",
+          "ubicacion": "https://goo.gl/maps/gu2jSVLiS3j8uMm19",
+          "resumen": "loren........."
+        },
+        {
+          "hora": "18:15",
+          "descripcion": "Llegada a Plaza Callao",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGpsxXqV6V3QlvmefDMe7FtOyvsDazIHnLVqRF4LtkA&s",
+          "ubicacion": "Restaurante El Cangrejo"
+        }
+        ,
+        {
+          "hora": "18:30",
+          "descripcion": "Llegada a Plaza Mayor",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDmJEOD-Mnfc4zjVbdYxEM3AVPSahdw63IjwV9XUr4A&s",
+          "ubicacion": "https://goo.gl/maps/hwB41XyY3HVQipQc6"
+        },
+        {
+          "hora": "18:45",
+          "descripcion": "Llegada a Mercado de San Miguel",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnmGxa_ew3j8DGocmUFl6fCS1r4wWAM1xC9CXcuWlZA&s",
+          "ubicacion": "https://goo.gl/maps/PV4SnKp99gCE9Z7R8"
+        }
+        ,
+        {
+          "hora": "19:15",
+          "descripcion": "Llegada a Puerta del Sol (ver estatua del oso y la baldosa Km 0)",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3I3QMEPprrM3jiawtJa21i824wF03VqtdfX3WRGWaw&s",
+          "ubicacion": "https://goo.gl/maps/RayPeujQaVSHfjAE8"
+        },
+        {
+          "hora": "19:45",
+          "descripcion": " Vuelta por la Gran Vía",
+          "foto": "https://ejemplo.com/foto2.jpg",
+          "ubicacion": "Restaurante El Cangrejo"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-05-16",
+      "dia": "2",
+      "Ciudad": "Madrid",
+      "hotel": "Gran Ricon de la gran via!",
+      "ubicacionHotel": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26266.43073381775!2d-58.43117029999999!3d-34.62176125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3bd82cfc13%3A0x640553e4c08a2eb2!2sMcDonald&#39;s!5e0!3m2!1ses-419!2sar!4v1682027310494!5m2!1ses-419!2sar\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>", 
+      "actividades": [
+        {
+          "hora": "9:30",
+          "descripcion": "Visita al Palacio Real (17 a 19 es gratis para europeos)",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobrwtOmUJKtMwgBgOJxdqssDOzKeCnimAYlwuwWD4jw&s",
+          "ubicacion": "https://goo.gl/maps/WgiVobbUGd7ghWxA7",
+          "resumen": "El Palacio Real de Madrid es la residencia oficial del rey de España, aunque en la actualidad se utiliza solo para ceremonias oficiales. Fue construido en el siglo XVIII sobre las ruinas del antiguo Alcázar Real, que fue destruido por un incendio en 1734."
+        },
+        {
+          "hora": "11:00",
+          "descripcion": "Catedral de la Almudena",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sgl2cooHyiuvkAaxp3sinpfVepbpuEwM9ipCH49A3g&s",
+          "ubicacion": "https://goo.gl/maps/hd6tb2h8xt7Bssi5A"
+        },
+        {
+          "hora": "12:30",
+          "descripcion": "Visita a la Plaza de Oriente y Jardines de Sabatini",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8AJimOujuBrNwxNZrp5AVLMk9mVaK3f1SG2iIhvGIA&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "13:00",
+          "descripcion": "Visita a la Plaza de Oriente",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHazHanpVcOH8A2IBSs1E7K88D1R17kQQcg4uR6iRk6g&s",
+          "ubicacion": "https://goo.gl/maps/J1UMgr9gKyY8MVFm8"
+        }
+        ,
+        {
+          "hora": "13:30",
+          "descripcion": "Almuerzo en los alrededores de la Plaza de Isabel II (Opera)",
+          "foto": "https://c8.alamy.com/compes/f4p5rp/espana-madrid-la-plaza-de-isabel-ii-madrid-plaza-clasica-opera-teatro-real-el-teatro-real-la-sala-de-conciertos-f4p5rp.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "15:00",
+          "descripcion": "Visita al Templo de Debod",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBlvdRZ5S7qJuGP_ikWG4JRlMQ1LjVllXA-ofelRC_w&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "16:00",
+          "descripcion": "Visita a la Plaza Mayor y a la Puerta del Sol",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDmJEOD-Mnfc4zjVbdYxEM3AVPSahdw63IjwV9XUr4A&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "17:00",
+          "descripcion": "Visita a la Fuente de Cibeles",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5Y6O4Fpj5-wdvFEuYoaNhaUs2OQJ3u7YTG7OY2aGUw&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "17:30",
+          "descripcion": "Llegada al edificio de Cibeles para la visita guiada (ir 15 minutos antes para el control)",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFwO8Nh53Lz0XRvuB8KmP70xg3SEbYSs04fNZfhiomiA&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "18:30",
+          "descripcion": "Merienda Cena",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "19:30",
+          "descripcion": "Compras",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "21:30",
+          "descripcion": "Hotel",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+
+      ]
+    }
+    ,
+    {
+      "fecha": "2023-05-17",
+      "dia": "3",
+      "Ciudad": "Madrid",
+      "hotel": "Gran Ricon de la gran via!",
+      "ubicacionHotel": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26266.43073381775!2d-58.43117029999999!3d-34.62176125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3bd82cfc13%3A0x640553e4c08a2eb2!2sMcDonald&#39;s!5e0!3m2!1ses-419!2sar!4v1682027310494!5m2!1ses-419!2sar\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>", 
+      "actividades": [
+        {
+          "hora": "9:30",
+          "descripcion": "Puerta de Alcalá",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbF5_3jZV2fJcjAkP_DTRd1sdrRXXgywnvT4WITUeBwQ&s",
+          "ubicacion": "https://goo.gl/maps/VPWdG1MUAz792Qg99"
+        },
+        {
+          "hora": "10:00",
+          "descripcion": "Av. Del Prado",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "https://goo.gl/maps/exMD4VyaVwktfLUv5"
+        },
+        {
+          "hora": "10:30",
+          "descripcion": "Fuente de Neptuno",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7jwCieMpI-NzfzcPOhbY-aNGalcXvoamPU8m1cuXmA&s",
+          "ubicacion": "https://goo.gl/maps/FQbAcksmLTwLPYjSA"
+        }
+        ,
+        {
+          "hora": "11:00",
+          "descripcion": "Museo del Prado (por fuera)",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cnIWkPUdmmT0ag0oPqc9OUCBVS1g87MufQev8FJybQ&s",
+          "ubicacion": "https://goo.gl/maps/skZf9KEX86xQ5Y3f7"
+        }
+        ,
+        {
+          "hora": "11:30",
+          "descripcion": "Parque El Retiro (Palacio de Cristal)",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorKJfVqojUFWiDq4qAcidtc6q5hBWazc2rEW0dXAC3A&s",
+          "ubicacion": "https://goo.gl/maps/jQeG7c6zRFhAZLBNA"
+        },
+        {
+          "hora": "13:00",
+          "descripcion": "Estación Atocha invernadero",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mQbYSMMYrHVHcgUNeGTtXTkoqTgZ_04SUbRsSbZTwg&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "17:00",
+          "descripcion": "Terraza de Cibeles (ir 15 minutos antes)",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4iSKdGyXy6N7tcXzGFnB-tPLOhQDSYLqaJVnbstrZKQ&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "19:00",
+          "descripcion": " Museo Reina Sofía con entrada",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsKMXrzJgvYgSx7J6J6lvSDik0uf-FQaVO0zLHy5cSww&s",
+          "ubicacion": "https://goo.gl/maps/bv6x7CPDS2zwkuyaA"
+        }
+      ]
+    }
+    
+    ,
+    {
+      "fecha": "2023-05-21",
+      "dia": "4",
+      "Ciudad": "Madrid-Barcelona",
+      "hotel": "Continental Palacete Hotel",
+      "ubicacionHotel": "", 
+      "actividades": [
+        {
+          "hora": "9:30",
+          "descripcion": "Shopping",
+          "foto": "https://ejemplo.com/foto3.jpg",
+          "ubicacion": "https://goo.gl/maps/VMQbrtGQ7P8BXNHd8"
+        },
+        {
+          "hora": "11:00",
+          "descripcion": "Checkout",
+          "foto": "https://ejemplo.com/foto3.jpg",
+          "ubicacion": "https://goo.gl/maps/VMQbrtGQ7P8BXNHd8"
+        },
+        {
+          "hora": "14:30",
+          "descripcion": "Tren en Atocha",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "17:30",
+          "descripcion": "Llegada a la estacion de tren de Barcelona",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJRCl5CxG11PVPmoLJXKlU8Jl2ElsFHGYGnCN07DfTQ&s",
+          "ubicacion": "Restaurante La Galette"
+        } ,
+        {
+          "hora": "18:00",
+          "descripcion": "Continental Palacete Hotel ",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26oRM4mCUs2KSGTEucfir3q2D6kikJvOZFwZWpL_dwn4C5yKW4egkc-cBPhOy9Y2DKq4&usqp=CAU",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "18:30",
+          "descripcion": "Encuentro en el Barrio Gótico",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdZPu2UXhGbGWMpGQDIAhPtv6X--RIs5bvax4eYG8hQ&s",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "19:00",
+          "descripcion": "Catedral de Barcelona",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbrm56WkSZuUEt2Ot5NPsaUFdUjQzFkDc6aC0pZ16&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "19:15",
+          "descripcion": "Paseo por el Puente del Obispo (arco gótico)",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-4xnOeCdnQLtMoZIPDyDNz9-b69OT1xRvtmDiRtM75Q&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "19:30",
+          "descripcion": "Visita al Templo de Augusto",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ohMHiomIzp7AXXf-gSvoHljrxBsVWKosv7w3tl_SJA&s",
+          "ubicacion": "https://goo.gl/maps/vzgUgufGtwgqZjab6"
+        },
+        {
+          "hora": "20:00",
+          "descripcion": "Parada en La Boquería para comprar alguna delicia",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZrSI-zdh3DzDHVEYErqIWsLFsN2cFI-WDzIhKh_FuQ&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "20:30",
+          "descripcion": "Cena y postre en la Plaza Real",
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9o4090ThoRmPR-o2xq_yJnvqUf9JaPu7DXDFYOxsQg&s",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "21:45",
+          "descripcion": "Bajada por la Rambla hacia la Costa",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-04-21",
+      "dia": "5",
+      "Ciudad": "Barcelona",
+      "hotel": "Continental Palacete Hotel",
+      "ubicacionHotel": "", 
+      "actividades": [
+        {
+          "hora": "9:30",
+          "descripcion": "Shopping",
+          "foto": "https://ejemplo.com/foto3.jpg",
+          "ubicacion": "https://goo.gl/maps/VMQbrtGQ7P8BXNHd8"
+        },
+        {
+          "hora": "10:00",
+          "descripcion": "Av. Del Prado",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "10:30",
+          "descripcion": "Fuente de Neptuno",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "11:00",
+          "descripcion": "Museo del Prado (por fuera)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "11:30",
+          "descripcion": "Parque El Retiro (Palacio de Cristal)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "13:00",
+          "descripcion": "Estación Atocha invernadero",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "17:00",
+          "descripcion": "Terraza de Cibeles (ir 15 minutos antes)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "19:00",
+          "descripcion": " Museo Reina Sofía con entrada",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+      ]
+    },
+
+
+    
+    {
+      "fecha": "2023-04-24",
+      "dia": "6",
+      "Ciudad": "Barcelona",
+      "hotel": "Continental Palacete Hotel",
+      "ubicacionHotel": "", 
+      "actividades": [
+        {
+          "hora": "9:30",
+          "descripcion": "Puerta de Alcalá",
+          "foto": "https://ejemplo.com/foto3.jpg",
+          "ubicacion": "https://goo.gl/maps/VMQbrtGQ7P8BXNHd8"
+        },
+        {
+          "hora": "10:00",
+          "descripcion": "Av. Del Prado",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "10:30",
+          "descripcion": "Fuente de Neptuno",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "11:00",
+          "descripcion": "Museo del Prado (por fuera)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "11:30",
+          "descripcion": "Parque El Retiro (Palacio de Cristal)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "13:00",
+          "descripcion": "Estación Atocha invernadero",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "17:00",
+          "descripcion": "Terraza de Cibeles (ir 15 minutos antes)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "19:00",
+          "descripcion": " Museo Reina Sofía con entrada",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-04-25",
+      "dia": "7",
+      "Ciudad": "BARCELONA-NAPOLES-SORRENTO",
+      "hotel": "Hotel Del Mare",
+      "ubicacionHotel": "", 
+      "actividades": [
+        {
+          "hora": "5:00",
+          "descripcion": "Aeropuerto de Barcelona",
+          "foto": "https://ejemplo.com/foto3.jpg",
+          "ubicacion": "https://goo.gl/maps/VMQbrtGQ7P8BXNHd8"
+        },
+        {
+          "hora": "7:15",
+          "descripcion": "Vuelo a Napoles",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "9:30",
+          "descripcion": "Aeropuerto Napoles",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "12:00",
+          "descripcion": "Hotel Del Mare",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+        ,
+        {
+          "hora": "11:30",
+          "descripcion": "Parque El Retiro (Palacio de Cristal)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "13:00",
+          "descripcion": "Estación Atocha invernadero",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "17:00",
+          "descripcion": "Terraza de Cibeles (ir 15 minutos antes)",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        },
+        {
+          "hora": "19:00",
+          "descripcion": " Museo Reina Sofía con entrada",
+          "foto": "https://ejemplo.com/foto4.jpg",
+          "ubicacion": "Restaurante La Galette"
+        }
+      ]
+    }
+  ]
+}
+
+  

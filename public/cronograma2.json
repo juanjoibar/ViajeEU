@@ -1,0 +1,83 @@
+{
+    "2023-04-20":  [{ "dia": "1.0" , "hotel": "Gran Ricon de la gran via!" ,"ubicacion": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26266.43073381775!2d-58.43117029999999!3d-34.62176125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3bd82cfc13%3A0x640553e4c08a2eb2!2sMcDonald&#39;s!5e0!3m2!1ses-419!2sar!4v1682027310494!5m2!1ses-419!2sar\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"},[
+      {
+        "hora": "10:00",
+        "descripcion": "Paseos en la playea",
+        "foto": "https://ejemplo.com/foto1.jpg",
+        "ubicacion": "Playa del Carmen"
+      },
+      {
+        "hora": "14:00",
+        "descripcion": "Comida en un restaurante local",
+        "foto": "https://ejemplo.com/foto2.jpg",
+        "ubicacion": "Restaurante El Cangrejo"
+      }
+     
+    ]],"2023-04-21": [
+      { "dia": "2.0" , "hotel": "Gran" ,"ubicacion": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12149.48496125987!2d-3.7102778!3d40.4227778!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287b2dbd6745%3A0x2277e934cefe49a1!2zUmluY8OzbiBkZSBHcmFuIFbDrWE!5e0!3m2!1sen!2sar!4v1681992948473!5m2!1sen!2sar' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"},[
+      {
+        "hora": "9:00",
+        "descripcion": "Senderismo en las montañas",
+        "foto": "https://ejemplo.com/foto3.jpg",
+        "ubicacion": "Parque Nacional Sierra Nevada"
+      },
+      {
+        "hora": "13:00",
+        "descripcion": "Picnic en el bosque",
+        "foto": "https://ejemplo.com/foto4.jpg",
+        "ubicacion": "Área recreativa Los Pinos"
+      }
+      
+    ]]
+    ,"2023-04-22": [
+      { "dia": "3.0" , "hotel": "Gran" ,"ubicacion": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12149.48496125987!2d-3.7102778!3d40.4227778!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287b2dbd6745%3A0x2277e934cefe49a1!2zUmluY8OzbiBkZSBHcmFuIFbDrWE!5e0!3m2!1sen!2sar!4v1681992948473!5m2!1sen!2sar' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"},[
+      {
+        "hora": "9:00",
+        "descripcion": "Senderismo en las montañas",
+        "foto": "https://ejemplo.com/foto3.jpg",
+        "ubicacion": "Parque Nacional Sierra Nevada"
+      },
+      {
+        "hora": "13:00",
+        "descripcion": "Picnic en el bosque",
+        "foto": "https://ejemplo.com/foto4.jpg",
+        "ubicacion": "Área recreativa Los Pinos"
+      }
+      
+    ]]
+    ,
+    "2023-04-23": [
+      { "dia": "4.0" , "hotel": "Gran" ,"ubicacion": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12149.48496125987!2d-3.7102778!3d40.4227778!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287b2dbd6745%3A0x2277e934cefe49a1!2zUmluY8OzbiBkZSBHcmFuIFbDrWE!5e0!3m2!1sen!2sar!4v1681992948473!5m2!1sen!2sar' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"},[
+      {
+        "hora": "9:00",
+        "descripcion": "Senderismo en las montañas",
+        "foto": "https://ejemplo.com/foto3.jpg",
+        "ubicacion": "Parque Nacional Sierra Nevada"
+      },
+      {
+        "hora": "13:00",
+        "descripcion": "Picnic en el bosque",
+        "foto": "https://ejemplo.com/foto4.jpg",
+        "ubicacion": "Área recreativa Los Pinos"
+      }
+      
+    ]]
+    ,"2023-04-24": [
+      { "dia": "5.0" , "hotel": "Gran" ,"ubicacion": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12149.48496125987!2d-3.7102778!3d40.4227778!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287b2dbd6745%3A0x2277e934cefe49a1!2zUmluY8OzbiBkZSBHcmFuIFbDrWE!5e0!3m2!1sen!2sar!4v1681992948473!5m2!1sen!2sar' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"},[
+      {
+        "hora": "9:00",
+        "descripcion": "Senderismo en las montañas",
+        "foto": "https://ejemplo.com/foto3.jpg",
+        "ubicacion": "Parque Nacional Sierra Nevada"
+      },
+      {
+        "hora": "13:00",
+        "descripcion": "Picnic en el bosque",
+        "foto": "https://ejemplo.com/foto4.jpg",
+        "ubicacion": "Área recreativa Los Pinos"
+      }
+      
+    ]]
+    
+  }
+  
