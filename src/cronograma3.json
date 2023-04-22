@@ -279,12 +279,38 @@
       ]
     },
     {
-      "fecha": "2023-04-21",
+      "fecha": "2023-04-22",
       "dia": "5",
       "Ciudad": "Barcelona",
       "hotel": "Continental Palacete Hotel",
       "ubicacionHotel": "", 
       "actividades": [
+        {
+          "hora": "09:30",
+          "descripcion": "Tomar el bus turístico en PASEO DE GRACIA/LA PEDRERA (bus azul) a las 09:30 a 11:30 reserva para LA SAGRADA FAMILIA. NO llevar pantalón corto y hombros cubiertos! (ver pase en mail Juanjo o grupo), esperar el BUS turístico! Otra opción para llegar es el metro “L2” 5 min (3 stops)",
+          "ubicacion": "PASEO DE GRACIA/LA PEDRERA",
+          "resumen": "Tomar el bus turístico o el metro para llegar a La Sagrada Familia"
+          },
+          {
+          "hora": "11:30",
+          "descripcion": "Visita a La Sagrada Familia",
+          "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sagrada_Fam%C3%ADlia_Juny_2006_%282414381045%29.jpg/640px-Sagrada_Fam%C3%ADlia_Juny_2006_%282414381045%29.jpg",
+          "ubicacion": "https://goo.gl/maps/W9pBvLk8WmEwNdsr5",
+          "resumen": "La Sagrada Familia es una impresionante iglesia diseñada por el arquitecto Antoni Gaudí, que aún está en construcción. Se recomienda llevar ropa adecuada para ingresar, no se permiten pantalones cortos ni hombros descubiertos."
+          },
+          {
+          "hora": "14:00",
+          "descripcion": "Visita a Park Güell (reserva con GOCITY)",
+          "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Parc_guell_%2823068775418%29.jpg/640px-Parc_guell_%2823068775418%29.jpg",
+          "ubicacion": "https://goo.gl/maps/MBfdAPzUdjX9TYCe9",
+          "resumen": "Park Güell es un hermoso parque lleno de esculturas y mosaicos diseñados por Gaudí. Se recomienda hacer una reserva con GOCITY para asegurar la entrada."
+          },
+          {
+          "hora": "15:30",
+          "descripcion": "Tomar el bus turístico en Park Guell (azul) hasta Cancha BARCELONA (Opcional) o seguir hasta la rotonda FRANCESC MACIA DIAGONAL (donde se cambia al bus rojo) y con el bus rojo ir hasta la entrada del MONTJUIC (TELEFERICO que baja hasta LA BARCELONETA). Pueblo español?",
+          "ubicacion": "Park Güell",
+          "resumen": "Tomar el bus turístico para continuar el recorrido a otras atracciones de Barcelona."
+          },
         {
           "hora": "9:30",
           "descripcion": "Shopping",
@@ -341,7 +367,7 @@
 
     
     {
-      "fecha": "2023-04-24",
+      "fecha": "2023-04-22",
       "dia": "6",
       "Ciudad": "Barcelona",
       "hotel": "Continental Palacete Hotel",

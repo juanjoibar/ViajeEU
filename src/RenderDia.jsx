@@ -26,7 +26,7 @@ if (dia.actividades) {
       <div className='header2'>
 
 
-      {/* <div  dangerouslySetInnerHTML={{ __html: hotel['ubicación'] }} ></div> */}
+      
       {dia.actividades.map((actividad, index) => (
         <div className='actividades' key={index}>
             
@@ -53,7 +53,7 @@ if (dia.actividades) {
         
        
       ))}
-      <div className='actividadBajo'></div>
+      
       </div>
       
     </div>
